@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Oppenheimer",
+      "rating": 8.9,
+      "overview": "This  is a wider card with supporting text below as a natural lead-in to additional content",
+      "imageURL": "Images/oppenheimer.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Interstellar",
+      "rating": 8.5,
+      "overview": "This  is a wider card with supporting text below as a natural lead-in to additional content",
+      "imageURL": "Images/interstellar.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Barbie",
+      "rating": 7.8,
+      "overview": "This  is a wider card with supporting text below as a natural lead-in to additional content",
+      "imageURL": "Images/barbie.png"
+    }
+  ]
+}
